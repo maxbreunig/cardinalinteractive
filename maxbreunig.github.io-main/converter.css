@@ -1,6 +1,6 @@
 
 .converter-body{
-    width: 360px;
+    width: 400px;
     height: 150px;
     background: red;
     position: absolute;
@@ -16,12 +16,13 @@
 input{
     height: 25px;
     text-align: center;
+    margin-left: 12.5px;
 }
 #inputType,#resultType{
-    width: 166.66px;
-    margin-left: 25px;
+    width: 173px;
+    margin-left: 13px;
     color: red;
 }
 #resultType{
-    margin-left: 12.5px;
+    margin-left: 26px;
 }
