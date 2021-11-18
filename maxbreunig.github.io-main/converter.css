@@ -2,7 +2,7 @@
 .converter-body{
     width: 400px;
     height: 150px;
-    background: red;
+    background: grey;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -26,3 +26,37 @@ input{
 #resultType{
     margin-left: 26px;
 }
+  /* Media Queries ------------------- */
+  @media screen and (max-width:360px) {
+    .converter-title{
+        text-align: center;
+        margin: 13px 0px;
+        font-size: small;
+    }
+    span{
+        display: none;
+    }
+    .converter-body{
+        width: 70%;
+        height: 150px;
+        background: grey;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        box-shadow: 0px 0px 2px 1px red;
+    }
+    input{
+        height: 25px;
+        text-align: center;
+        margin-left: 12.5%;
+    }
+    #inputType,#resultType{
+        width: 100px;
+        margin-left: 25%;
+        color: red;
+    }
+    #resultType{
+        position: relative;
+    }  
+  }
