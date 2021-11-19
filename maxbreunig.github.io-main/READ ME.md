@@ -6,7 +6,7 @@ READ ME
 
     1. Added a page to display the current weather in Louisville, KY by using an external API (openweatherapi) and JSON. The background color changes with the forecast to reflect sunny, cloudy, rainy, and clear skies. This can help our out of state manufactureers guage product demand for the day as we are dependent upon clear weather for construction. There is also a celcius formula too. If case it's needed to display to our Canadian partners, I can simply go into the code and change to celcius. 
 
-    2. Added a countdown timer on the front page. This will be useful as continual price increases have become a standard in our industry and can keep customers informed for when they need to get their orders in. The end date is easily changeable. 
+    2. Added a countdown timer on the front page. This will be useful as continual price increases have become a standard in our industry and can keep customers informed for when they need to get their orders in. The end date is easily changeable and is set for noon January 1st at the moment. 
 
     3. Added a page for a conversion calculator. As of this moment, it can convert the following units to each other: feet, inches, meter, milimeters. We work with a few canadian manufacturers and this can save us a phone call from customers receiving products with metric based measurments in the USA. There is also a media query to help keep the page accessible for screens with widths of 360px or less. 
 
