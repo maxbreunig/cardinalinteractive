@@ -1,7 +1,7 @@
 body {
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: 400;
-    color: #fff;
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -14,7 +14,7 @@ h1 {
     margin: 0 auto;
     font-size: 2.2em;
     text-align: center;
-    color: #fff;
+    color: white;
     font-size: 5em;
 }
 body.sunny {
@@ -26,3 +26,6 @@ body.cloudy {
 body.rainy {
     background-image: linear-gradient(to right top, #637c7b, #718e8c, #7ea09e, #8db2b0, #9bc5c3);
 }
+
+
+ 

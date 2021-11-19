@@ -4,7 +4,7 @@ READ ME
 
     Javascript Requirements for 11/19/21 Project
 
-    1. Added a page for current weather in Louisville, KY by using an API through OpenWeather.com. The background color changes with the forecast to reflect cloudy/rainy skies or clear skies. This can help our out of state manufactureers guage product demand for the day as we are dependent upon clear weather for construction. There is also a celcius formula too. If case it's needed to display to our Canadian partners, I can simply go into the code and change to celcius. 
+    1. Added a page to display the current weather in Louisville, KY by using an external API (openweatherapi) and JSON. The background color changes with the forecast to reflect sunny, cloudy, rainy, and clear skies. This can help our out of state manufactureers guage product demand for the day as we are dependent upon clear weather for construction. There is also a celcius formula too. If case it's needed to display to our Canadian partners, I can simply go into the code and change to celcius. 
 
     2. Added a countdown timer on the front page. This will be useful as continual price increases have become a standard in our industry and can keep customers informed for when they need to get their orders in. The end date is easily changeable. 
 
